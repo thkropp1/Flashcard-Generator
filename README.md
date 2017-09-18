@@ -27,3 +27,9 @@ The full text. This is the entire sentence users need to remember: "George Washi
 The cloze deletion. This is the text we've chosen to remove: "George Washington".
 
 The partial text. This is what we get if we remove the cloze deletion from the full text: "... was the first president of the United States.
+
+How to run the app:
+
+1. Clone this repo.
+2. cd into the cloned directory and open Git Bash.
+3. Type in the command line: node app
